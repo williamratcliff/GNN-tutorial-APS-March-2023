@@ -7,10 +7,10 @@ JARVIS-ALIGNN: https://github.com/JARVIS-Materials-Design/jarvis-tools-notebooks
 
 
 
-
-1:30-1:35 Intro
-1:35-2:30 Intro to GNN (Savannah)
-2:30-3:00  Break
-3:00-4:00 JAX-MD Dogus (along with SVM -> CNN analogy to GNNs and why we use them)
-4:00-5:00 Line Graph Kamal
-5:00-5:30 Other libraries and summaries (Dogus)
+# Schedule
+- 1:30-1:35 Intro
+- 1:35-2:30 Intro to GNN (Savannah)
+- 2:30-3:00  Break
+- 3:00-4:00 JAX-MD (Dogus) (along with SVM -> CNN analogy to GNNs and why we use them)
+- 4:00-5:00 Line Graph (Kamal)
+- 5:00-5:30 Other libraries and summaries (Dogus)
