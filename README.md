@@ -1,9 +1,9 @@
 # GNN-tutorial-APS-March-2023
-These are the slides associated with the GNN tutorial at the APS March Meeting
-Info: https://march.aps.org/events/tutorial-graph-neural-networks
-March 5, 1:30 – 5:30 p.m. PST
-JAX-MD:  https://github.com/jax-md/jax-md/tree/main/notebooks/tutorial
-JARVIS-ALIGNN: https://github.com/JARVIS-Materials-Design/jarvis-tools-notebooks
+These are the slides associated with the GNN tutorial at the APS March Meeting  
+Info: https://march.aps.org/events/tutorial-graph-neural-networks. 
+March 5, 1:30 – 5:30 p.m. PST  
+- JAX-MD:  https://github.com/jax-md/jax-md/tree/main/notebooks/tutorial
+- JARVIS-ALIGNN: https://github.com/JARVIS-Materials-Design/jarvis-tools-notebooks
 
 
 
