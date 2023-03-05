@@ -8,9 +8,11 @@ March 5, 1:30 – 5:30 p.m. PST
 
 
 # Schedule
-- 1:30-1:35 Intro
+- 1:30-1:35 Welcome (William)
 - 1:35-2:30 Intro to GNN (Savannah)
-- 2:30-3:00  Break
-- 3:00-4:00 JAX-MD (Dogus) (along with SVM -> CNN analogy to GNNs and why we use them)
-- 4:00-5:00 Line Graph (Kamal)
-- 5:00-5:30 Other libraries and summaries (Dogus)
+- 2:45-3:00 Break
+- 3:00-4:00 JAX-MD (Dogus)
+- 4:00-4:05 Break
+- 4:05-5:05 Line Graph (Kamal)
+- 5:05-5:10  Break
+- 5:10-5:40 Other libraries and summaries (Dogus)
